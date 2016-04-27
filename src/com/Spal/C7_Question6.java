@@ -10,17 +10,18 @@ package com.Spal;
  */
 public class C7_Question6 {
     public static void testClasses(){
+        //For ease, I guess.
         System.out.println("C7_Question6");
 
         //Inits the first truck with the full constructor.
         Truck ranger = new Truck(12.3,123,"123", 4, "Mark");
         //Inits the second truck with the mutator methods.
         Truck other_ranger = new Truck();
-            other_ranger.setLoad(12.3);
-            other_ranger.setTowing(123);
-            other_ranger.setManufacturer("123");
-            other_ranger.setCylindercount(4);
-            other_ranger.setOwner("Mark");
+        other_ranger.setLoad(12.3);
+        other_ranger.setTowing(123);
+        other_ranger.setManufacturer("123");
+        other_ranger.setCylindercount(4);
+        other_ranger.setOwner("Mark");
         //Prints the data in the rangers.
         System.out.println(ranger + "\n" + other_ranger);
         //Outputs if they are equivalent.

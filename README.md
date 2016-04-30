@@ -26,4 +26,4 @@ Contributions:
 			This includes all classes within, Vehicle, Person, Truck, and the C7_Question6 test class. We chose to use Brandon's C10Q7 because of his better implementation previously.
 	Brandon Hathaway:
 			Implemented C7Q7 and implemented C10Q7
-			All of the files and classes have been completed and tested. The C7Q7 includes the classes called Patient and Billing which implement different aspects of inheritance throughout both classes. C10Q7 allows the creation of a file that contains high scores for a game. Each of these classes were tested through the test class of main.
+			All of the files and classes have been completed and tested. The C7Q7 includes the classes called Patient and Billing which implement different aspects of inheritance throughout both classes. C10Q7 allows the creation of a file that contains high scores for a game. Each of these classes was tested through the test class of main.

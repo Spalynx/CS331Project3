@@ -45,7 +45,7 @@ public class C10_Question7{
 
         try {
             // Creates a file that will contain the high scores and players names.
-            PrintWriter output = new PrintWriter(new FileOutputStream("High Scores.txt"));
+            PrintWriter output = new PrintWriter(new FileOutputStream("High Scores.txt", true));
             do {
                 // Allows the user to enter in names and scores for the game they just played.
                 System.out.println("Enter in your name.");

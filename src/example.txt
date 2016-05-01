@@ -1,0 +1,73 @@
+C7_Question6
+Truck:
+	Towing Capacity: 123
+	Load Capacity: 12.3
+	Owner: Mark
+	Manufacturer: 123
+	Cylinder Count: 4
+
+Truck:
+	Towing Capacity: 123
+	Load Capacity: 12.3
+	Owner: Mark
+	Manufacturer: 123
+	Cylinder Count: 4
+
+Truck1 == Truck2 ? true
+-------------------- C7Q7 -----------------------
+Brandon
+Brandon H
+General Practitioner
+Brandon H has 4 Doctor(s).
+Pediatrician
+Obstetrician
+General Practitioner
+Surgeon
+
+
+Here is the name of a second patient: Brandon H
+Patient one and patient two are the same person.
+
+
+Your bill is: $846.35
+Your bill is now: $9657.62
+The patients name is: Brandon
+The patients name has been updated to: Brandon H
+Brandon H doctor is: Obstetrician
+Brandon H changed their doctor to the Cardiologist
+All of the doctors being displayed
+Pediatrician
+Obstetrician
+General Practitioner
+Cardiologist
+
+
+Brandon H has 4 doctors.
+Brandon H doctor is the Pediatrician
+Brandon H has 4 doctors.
+All of the doctors being displayed
+Pediatrician
+Obstetrician
+General Practitioner
+Nurse
+
+Below is the second bill for each doctor.
+The bills of each doctor are not the same bill.
+
+
+Brandon H went to go visit the Surgeon today.
+
+Brandon H was charged $9657.62 for the visit to the Cardiologist yesterday.
+------------------- C10Q7 -----------------------
+Enter in your name.
+blah
+Enter in your score that you reached in the game.
+1
+1
+2
+3
+4
+Display high scores: 1 = (yes), 0 = (no)
+1
+Play again: 1 = (yes) 0 = (no)
+0

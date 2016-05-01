@@ -20,7 +20,7 @@ public class Billing {
      * the Billing class. Then the constructor initializes
      * three doctors that all patients have.
      */
-    Billing() {
+    public Billing() {
         amount = 250.42;
         billDoctor.addProfessionDoctor("Pediatrician");
         billDoctor.addProfessionDoctor("Obstetrician");
@@ -37,7 +37,7 @@ public class Billing {
      *          patient and is assigned to the name in the
      *          patient class.
      */
-    Billing(double i, String s) {
+    public Billing(double i, String s) {
         amount = i;
         billPatient.setPatientName(s);
         billDoctor.addProfessionDoctor("Pediatrician");

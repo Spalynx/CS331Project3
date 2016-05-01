@@ -8,8 +8,11 @@ package com.Spal;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("FUKKOF");
         //Running the static method within.
         C7_Question6.testClasses();
+        System.out.println("-------------------- C7Q7 -----------------------");
+        C7_Question7.testClasses();
+        System.out.println("------------------- C10Q7 -----------------------");
+        C10_Question7.testClasses();
     }
 }

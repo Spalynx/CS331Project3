@@ -20,7 +20,7 @@ public class Patient extends Person {
      * but we are not invoking the parents constructor. This
      * method initializes some doctors in the instance variable.
      */
-    Patient(){
+    public Patient(){
         myPatientDoctor.addProfessionDoctor("Pediatrician");
         myPatientDoctor.addProfessionDoctor("Obstetrician");
         myPatientDoctor.addProfessionDoctor("General Practitioner");
@@ -35,7 +35,7 @@ public class Patient extends Person {
      *               an object for the class so that the user can become
      *               a patient.
      */
-    Patient(String myName){
+    public Patient(String myName){
         myPatientDoctor.addProfessionDoctor("Pediatrician");
         myPatientDoctor.addProfessionDoctor("Obstetrician");
         myPatientDoctor.addProfessionDoctor("General Practitioner");
